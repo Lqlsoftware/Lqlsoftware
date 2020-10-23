@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-Robin Lu
+#### Robin Lu
 
-🧑🏻‍💻 Earning my master's degree in University of Chinese Academy of Science currently.
-😄 Love doing something interesting & cyberpink.
+#### 🧑🏻‍💻 Earning my master's degree in University of Chinese Academy of Science currently.
+#### 😄 Love doing something interesting & cyberpink.
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lqlsoftware&repo=Gopcap)](https://github.com/Lqlsoftware/Gopcap)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lqlsoftware&repo=KiD)](https://github.com/Lqlsoftware/KiD)
