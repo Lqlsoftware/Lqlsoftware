@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Lqlsoftware/Lqlsoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robin Lu
 
-Here are some ideas to get you started:
+🧑🏻‍💻 Earning my master's degree in University of Chinese Academy of Science currently.
+😄 Love doing something interesting & cyberpink.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lqlsoftware&repo=Gopcap)](https://github.com/Lqlsoftware/Gopcap)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lqlsoftware&repo=KiD)](https://github.com/Lqlsoftware/KiD)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lqlsoftware&repo=LeetCode-OJ)](https://github.com/Lqlsoftware/LeetCode-OJ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lqlsoftware&repo=lib-b)](https://github.com/Lqlsoftware/lib-b)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lqlsoftware&repo=obs-studio)](https://github.com/Lqlsoftware/obs-studio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lqlsoftware&repo=syncplay)](https://github.com/Lqlsoftware/syncplay)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lqlsoftware&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
