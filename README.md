@@ -2,6 +2,8 @@
 
 #### Robin Lu
 
+#### ⌨️ Go / C / C++ / Python
+
 #### 🧑🏻‍💻 Earning my master's degree in University of Chinese Academy of Science currently.
 #### 😄 Love doing something interesting & cyberpunk.
 
