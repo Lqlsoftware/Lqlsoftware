@@ -4,7 +4,6 @@
 
 #### ⌨️ C / C++ / Go / Python
 
-#### 🧑🏻‍💻 Earning my master's degree in University of Chinese Academy of Science currently.
 #### 😄 Love doing something interesting & cyberpunk.
 #### ⬅️ Avatar is made by deepfake & super-resolution imaging.
 
