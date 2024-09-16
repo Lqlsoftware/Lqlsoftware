@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-#### Robin Lu
+#### Reginald Lu
 
-#### ⌨️ C / C++ / Go / Python
+#### ⌨️ C++ / C / ASM / Go / Python
 
 #### 😄 Love doing something interesting & cyberpunk.
-#### ⬅️ Avatar is made by deepfake & super-resolution imaging.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lqlsoftware&count_private=true&show_icons=true&hide=contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
